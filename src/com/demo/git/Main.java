@@ -14,4 +14,9 @@ public class Main {
     public void hi(){
         System.out.println("Hi Git this is a new user from Intellij");
     }
+
+    public void bye(){
+        System.out.println("Just kidding..");
+        System.out.println("Hahaha");
+    }
 }
